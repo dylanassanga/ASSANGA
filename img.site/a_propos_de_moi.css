@@ -1,0 +1,33 @@
+a:hover{
+    color:red;
+}
+
+a{
+    color:#242424;
+    text-decoration: none;/* Pour ne pas souligner le lien*/
+}
+.tete_page, .pied_page{
+    background-color: white;
+}
+
+body{
+    background-color: #1F2039;
+}
+
+h2{
+    color:#F9F8FF;
+}
+p{
+    color:#F9F8FF;
+}
+
+.contact{
+    background: linear-gradient(#8e86b5, #acaeed);
+    color: white;
+}
+
+.bloque_contenu{
+    border-radius:3px;
+    border-right: 1px solid #A5B4FC ;
+    border-bottom:1px solid #A5B4FC ;
+}
